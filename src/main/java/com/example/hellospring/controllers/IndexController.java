@@ -27,6 +27,8 @@ public class IndexController {
         if (dagNum == 5){
             return "Det er fredag!!";
         }
+
+
         else {
             return "Det er ikke fredag";
         }
